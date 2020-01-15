@@ -2,7 +2,7 @@
 ## Java Maven Project
 ### Helene H. Harmens 14.01.20
 
-
+[LINK TO QUICK ELEVATOR SYSTEM UML](http://yuml.me/preview/df5718ca)
 
 ## Kvaliteter heissystemet må ta hensyn til:
 
