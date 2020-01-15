@@ -24,5 +24,6 @@ Heisene må kunne ta imot nye forespørsler fra knappe-panelet på innsiden av h
 * Hurtighet for heis mellom etasjene, med mulighet til å kjøre raskere/saktere (?)
 * Fokus på sikkerhet
 * Metode for å finne ledig heis
+* TESTER!
 * ...
 
